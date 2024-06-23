@@ -1,15 +1,15 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "name":"Lynns VPM",
+    "id":"com.lynncubus.vpm",
+    "url":"https://lynncubus.github.io/vpm/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"contact+vpm@lynncubus.com",
+        "name":"Lynncubus",
+        "url":"https://lynncubus.com"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"Lynns VPM",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"https://github.com/Lynncubus/vpm",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
